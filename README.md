@@ -1,6 +1,6 @@
-# heroes
-## integrantes
--Sergio
--Leonel
--Ezequiel
--Marco
+# HEROES
+## Participantes
+- Marco Falcon
+- Leonel Gonzales
+- Ezequiel Mazzucco
+- Sergio Vecchi
